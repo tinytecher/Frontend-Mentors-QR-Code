@@ -1,6 +1,7 @@
 # Frontend-Mentors-QR-Code
 
-<img width="800" alt="Screenshot 2022-10-30 at 01 37 18" src="https://user-images.githubusercontent.com/79761202/screenshot.png">
+<img width="514" alt="ss" src="https://github.com/tinytecher/Frontend-Mentors-QR-Code/assets/79761202/0b1d9731-7045-4f7b-9cc0-2c078261e1a1">
+
 
 Using these challenges as a way to get continually practice and develop my CSS skills
 
