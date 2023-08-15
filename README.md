@@ -2,6 +2,9 @@
 
 <img width="314" alt="ss" src="https://github.com/tinytecher/Frontend-Mentors-QR-Code/assets/79761202/a2fcf7d7-b105-4b7b-9bff-d9a75aeebab5">
 
+## Deployment
+
+The QR Code Component is deployed using Netlify. You can visit the deployed site by clicking the following link: [QR Code Component](https://your-netlify-link-goes-here)
 # QR Code Component - Frontend Mentor Challenge
 
 This project serves as a practice exercise to enhance CSS fundamentals by replicating a design from Frontend Mentor. The objective was to create a QR code component using HTML and CSS, showcasing the ability to style and position elements to achieve a visually appealing and responsive design.
@@ -30,16 +33,8 @@ Throughout this project, I focused on improving my CSS skills and gained insight
 
 - **Box Model**: I utilized padding and border-radius properties to control the spacing and appearance of elements within the card container.
 
-## Deployment
-
-The QR Code Component is deployed using Netlify. You can visit the deployed site by clicking the following link: [QR Code Component](https://your-netlify-link-goes-here)
-
-## Acknowledgments
-
-This project was completed as a practice exercise to strengthen CSS skills and replicate a design from Frontend Mentor. By focusing on positioning, styling, and responsive design, I gained valuable insights into creating visually appealing and well-structured web components.
 
 
-## Acknowledgments
 
-This project was completed as a practice exercise to strengthen CSS skills and replicate a design from Frontend Mentor. By focusing on positioning, styling, and responsive design, I gained valuable insights into creating visually appealing and well-structured web components.
+
 
