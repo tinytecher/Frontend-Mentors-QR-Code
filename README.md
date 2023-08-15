@@ -1,6 +1,6 @@
 # Frontend-Mentors-QR-Code
 
-<img width="514" alt="ss" src="https://github.com/tinytecher/Frontend-Mentors-QR-Code/assets/79761202/a2fcf7d7-b105-4b7b-9bff-d9a75aeebab5">
+<img width="414" alt="ss" src="https://github.com/tinytecher/Frontend-Mentors-QR-Code/assets/79761202/a2fcf7d7-b105-4b7b-9bff-d9a75aeebab5">
 
 
 Using these challenges as a way to get continually practice and develop my CSS skills
