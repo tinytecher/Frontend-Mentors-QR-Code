@@ -1,0 +1,30 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(200, 207, 225);
+}
+
+
+.card-container {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+    background-color: #fff;
+    padding: 15px;
+    border-radius: 4%;
+    /* max-width: 300px; */
+}
+
+.text-container {
+    width: 250px;
+}
+
+.qr-image {
+	border-radius: 4%;
+    width: 250px;
+}
