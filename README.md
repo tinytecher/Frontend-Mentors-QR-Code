@@ -1,7 +1,5 @@
 ## Frontend-Mentors-QR-Code
 
-<img width="314" alt="ss" src="https://github.com/tinytecher/Frontend-Mentors-QR-Code/assets/79761202/a2fcf7d7-b105-4b7b-9bff-d9a75aeebab5">
-
 # Deployment
 
 The QR Code Component is deployed using Netlify. You can visit the deployed site by clicking the following link: [qr-code-frontend-mentors-challenge.netlify.app](qr-code-frontend-mentors-challenge.netlify.app)
