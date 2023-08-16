@@ -7,7 +7,7 @@ This project serves as a practice exercise to enhance CSS fundamentals by replic
 The QR code component consists of a card containing a QR code image and text. The challenge was to take the provided design and recreate it in code, paying attention to detail.
 
 # Design to Relicate:
-<img width="435" alt="Screenshot 2023-08-16 at 14 01 54" src="https://github.com/tinytecher/Frontend-Mentors-QR-Code/assets/79761202/83cd255c-8011-485c-afdd-1f6075f18f97">
+<img width="321" alt="Screenshot 2023-08-16 at 14 01 54" src="https://github.com/tinytecher/Frontend-Mentors-QR-Code/assets/79761202/83cd255c-8011-485c-afdd-1f6075f18f97">
 
 # Result:
 <img width="321" alt="mine" src="https://github.com/tinytecher/Frontend-Mentors-QR-Code/assets/79761202/813ed3b1-2f19-412c-a81c-396dac7bc304">
