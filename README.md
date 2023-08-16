@@ -1,4 +1,4 @@
-## Frontend-Mentors-QR-Code
+## Frontend-Mentors QR-Code
 
 This project serves as a practice exercise to enhance CSS fundamentals by replicating a design from Frontend Mentor. The objective was to create a QR code component using HTML and CSS, showcasing the ability to style and position elements to achieve a visually appealing and responsive design.
 
